@@ -1,0 +1,18 @@
+# --- Dependencies ---
+**/node_modules/
+npm-debug.log*
+
+# --- Environment Variables ---
+**/server/.env
+
+# --- Build Outputs ---
+**/client/dist/
+**/client/build/
+**/server/dist/
+
+# --- User Uploads / Media ---
+**/server/uploads/
+
+# --- Operating System Files ---
+.DS_Store
+Thumbs.db
